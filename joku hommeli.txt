@@ -1,0 +1,10 @@
+<!Doctype html>
+	<meta chartset="UTF=8">
+	<face>
+		<body>
+			<title> Nettisivu1 </title>
+			<H1> pientä koodaustestailua </H1>
+			<p> uauauuauau </p>
+		</body>
+	</face>
+</html>
